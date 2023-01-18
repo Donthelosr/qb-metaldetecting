@@ -3,6 +3,12 @@ An in-depth & multi-feature metal detecting script made for the qbcore framework
 This is my first release, I would appreciate all feedback good or bad. Feel free PR this repository with any improvements you suggest.
 Made by <a href="https://github.com/plasmaFPS">plasma#2782</a> & <a href="https://github.com/euenvy">EU ENVY#9641</a>.
 
+* Edited by Donthelosr
+
+## Changes by me
+* Revised reward system
+* Now requires progressbar and qb-lock for skill checks and wait handling.
+
 ## Video Preview
 https://www.youtube.com/watch?v=4cd9LtAMNZM
 
@@ -11,6 +17,8 @@ https://www.youtube.com/watch?v=4cd9LtAMNZM
 - <a href="https://github.com/qbcore-framework/qb-menu">**qb-menu**</a>
 - <a href="https://github.com/BerkieBb/qb-target">**qb-target**</a>
 - <a href="https://github.com/mkafrin/PolyZone">**PolyZone**</a>
+- <a href="https://github.com/qbcore-framework/progressbar">**Progressbar**</a>
+- <a href="https://github.com/Nathan-FiveM/qb-lock">**Qb-lock**</a>
 
 ## Features
 - Easy to understand config with options for script customization.
